@@ -1,7 +1,7 @@
-# alicetypeface
+	TOO SIMPLE SOMETIMES NAIVE
 
-TUTORIAL
---------
+	TUTORIAL
+	--------
 
 	CENSORED WORDS / LIGATURES
 	--------------------------
@@ -55,3 +55,10 @@ TUTORIAL
 	4. refresh the 'discover auras' tab
 	5. click on the purple button which opens up your camera.
 	6. scan the ligatures that you typed before with the alice_ar font
+	
+	
+	Marcus Wachter
+	Max Waelbers
+	GD3 - Experimental Publishing
+	ArtEZ Hogeschool voor de Kunsten,
+	Arnhem
